@@ -8,7 +8,7 @@ You can use traditional MSGIN functionality or the OpCon API.  The debug option 
 * OpCon Release 17+
 
 # Instructions
-  * <b>OpConModule</b> - Path to the OpCon API module, if you are using the API to add the holidays
+  * <b>OpConModule</b> - Path to the OpCon API module, if you are using the API to add the dates
   * <b>MSGINPath</b> - Path to the MSGIN directory on the server you are running the script, if you are using OpCon external events to add the holidays
   * <b>URL</b> - OpCon API url
   * <b>APIUser</b> - OpCon API user 
